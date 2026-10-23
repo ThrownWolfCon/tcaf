@@ -2,6 +2,8 @@
 
 The TACTICAL AWS CAF
 
+<img src="images/Screenshot From 2026-10-23 16-32-52.png" alt="Home view" width=80%>
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/) (includes npm)
