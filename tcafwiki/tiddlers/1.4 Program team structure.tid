@@ -1,0 +1,30 @@
+created: 20260516155525646
+modified: 20260524145507214
+tags: [[OCA 1. Mobilize Team]]
+title: 1.4 Program team structure
+type: text/vnd.tiddlywiki
+
+[[Open This|1.4 Program team structure]]
+
+---
+
+https://docs.aws.amazon.com/prescriptive-guidance/latest/oca-framework-mobilize-team/team-structure.html
+
+To create the project team structure, complete the following:
+
+# Review the OCA program charter.
+# Review the scope and cloud readiness assessment outputs.
+# Review the change impact assessment outputs.
+# Review the high-level change Impacts (if available).
+# Review the discovery materials (as needed).
+# Engage cloud project leadership, internal change team (if available), HR business partner, and internal communications or training leaders for input on team structure.
+# Interview IT functional leaders to validate gaps, organizational changes, and impacts to roles.
+# Confirm and validate the work effort required for each role:
+#* OCA lead
+#* Communications lead
+#* Training lead
+#* Other roles as necessary
+# Present the team structure to cloud leadership for approval.
+# Identify internal resources or retain staffing externally.
+# Onboard the OCA team.
+# Introduce, onboard, and engage the OCA  team.
